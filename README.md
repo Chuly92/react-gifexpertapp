@@ -1,4 +1,4 @@
-# GIF App Developed in ReactJS
+# GIF App Developed in ReactJS with Bootstrap
 
 ### You can search any word and the app returns 10 gif about that topic
 #### Built with Giphy: https://developers.giphy.com/
